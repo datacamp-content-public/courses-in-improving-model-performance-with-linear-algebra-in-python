@@ -41,3 +41,41 @@ This is an example exercise.
 ```{python}
 
 ```
+
+---
+
+## Data Analysis Using Matrices
+
+```yaml
+type: NormalExercise
+key: f6e7532727
+xp: 100
+```
+
+
+
+`@instructions`
+
+
+`@hint`
+1.
+
+`@pre_exercise_code`
+```{python}
+
+```
+
+`@sample_code`
+```{python}
+
+```
+
+`@solution`
+```{python}
+
+```
+
+`@sct`
+```{python}
+
+```
