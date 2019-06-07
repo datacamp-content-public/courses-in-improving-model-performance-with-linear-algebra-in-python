@@ -39,26 +39,6 @@ The data consists of four files and for two years.
 Suppose the country want to double the daily total income of the second year,  for the next year (**Year 3**).
 What is the total amount of each product required if the price matrix for the second year is kept for the third one? 
 
-Hint: Formulate first the linear equation.
-
-# Question 3
-
-1. Consider the matrix consisting of the first 35 days lines of  ***Quantities1.csv**
-2. Compute the Eigenvalues and Eigenvectors of this matrix.
-3. What is its inverse?
-
-# Question 4
-
-Use the matrix obtained in Question 3 to study the independence of the daily amounts of quantities for the first 35 days and extend this ideal to the whole data set.
-
-Hint: Use the determinant to make the decision.
-
-
-
-
-
-
-
 
 
 
