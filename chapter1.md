@@ -18,8 +18,7 @@ The objective of the exercise is to model and analyze the economy of the assumed
 based on the data.
 
 
-The data consist of quantities  of 35 different products recorded from Day 1 to Day 360 for two consecutive years. 
-
+The data consist of quantities  of 35 different products recorded from Day 1 to Day 360 for two consecutive years.
 
 `@instructions`
 1. Answer all question.
