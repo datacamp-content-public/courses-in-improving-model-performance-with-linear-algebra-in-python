@@ -32,7 +32,7 @@ The data consists of four files and for two years.
 2. Write the command to compute the total daily exportation for each product within the two years.
 3. Write the a code to computer the  per- product total income made for the first year. 
 4. Write the a code to computer the  daily total income made for the second year. 
-5. Compute the total amount of income for the period of each income. 
+5. Compute the total amount of income for the period of the two years. 
 
 # Question 2
 
