@@ -28,7 +28,7 @@ The data consists of four files and for two years.
 
 
 # Question 1
-In this question you are asked to write codes/command to compute some things. For each question you may use some few steps before the final one. Explain your code with a simple justification.
+
 1. Write a Scipy code to compute the double of each quantity exported in the first year
 2. Write the command to compute the total daily exportation for each product within the two years.
 3. Write  a code to computer the  per- product total income made for the first year. 
@@ -64,6 +64,7 @@ Hint: Use the determinant to make the decision.
 
 `@instructions`
 1.  Answer all question.
+3. For each question, you may use some few steps before the final one. Explain your code with a simple justification.
 2. Questions will be marked based on correctness and related justifications.
 
 `@hint`
