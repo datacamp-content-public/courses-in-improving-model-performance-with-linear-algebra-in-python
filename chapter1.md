@@ -21,7 +21,7 @@ based on the data.
 The data consist of quantities  of 35 different products recorded from Day 1 to Day 360 for two consecutive years.
 
 `@instructions`
-1. Answer all question.
+1. Answer all questions.
 3. For each question, you may use some few steps before the final one. Explain your code with a simple justification.
 2. Questions will be marked based on correctness and related justifications.
 
