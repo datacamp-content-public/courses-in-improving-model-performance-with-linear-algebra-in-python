@@ -14,30 +14,13 @@ xp: 100
 
 This Exercise intends to use matrix concept to make some data modeling and  analysis.
 
-
-This Exercise intends to use matrix concepts to make some data modeling and  analysis.
-The objective of the exercise is to model and analyze the economy of the assumed country.
-The data consist of quantities  of 35 different products recorded from Day 1 to Day 360 for two consecutive years. 
-The data consists of four files and for two years. 
-
-1. Year one: the data file for the first year are as follows:
-	1. **Quantities1.csv: ** the data consisting of quantities  of 35 different products recorded from Day 1 to Day 360.  
-     2. **Prices1.csv: ** the data consisting of the corresponding daily prices per unit of the 35 products. 
-     
-2. Year two: files **Quantities2.csv**  and **Prices2.csv** consisting of the quantities and prices for the same products within the second year.
+The objective of the exercise is to model and analyze the economy of the assumed country
+based on the data.
 
 
-# Question 1
 
-1. Write a Scipy code to compute the double of each quantity exported in the first year
-2. Write the command to compute the total daily exportation for each product within the two years.
-3. Write  a code to computer the  per- product total income made for the first year. 
-4. Write  a code to computer the  daily total income made for the second year. 
-5. Compute the total amount of income for the period of the two years. 
 
-# Question 2
-Suppose the country want to double the daily total income of the second year,  for the next year (**Year 3**).
-What is the total amount of each product required if the price matrix for the second year is kept for the third one? 
+
 
 
 
