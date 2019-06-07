@@ -14,7 +14,6 @@ xp: 100
 
 This Exercise intends to use matrix concept to make some data modeling and  analysis.
 
-
 `@instructions`
 1.  Answer all question.
 2. Questions will be marked based on correctness and related justifications.
@@ -26,19 +25,20 @@ This Exercise intends to use matrix concept to make some data modeling and  anal
 ```{python}
 import scipy as s # importing scipy and nickname it as s
 
-data1 =open("exported_quantinties.csv", "r") # reading and working on the Qunatities file
-myprices=[]
-for line in data1:
-   myprices.append(line.rstrip().split(","))
-data1.close()
-data2 =open("exported_unit_prices.csv", "r") # reading and working on the prices file
-myquantities=[]
-for line in data2:
-   myquantities.append(line.rstrip().split(","))
-data2.close()
-# The following are the matrices to be worked on
-Prices= s.matrix([[float(i) for i in row[1:]] for row in myprices[1:] ])  # deleting headings
-Quantities= s.matrix([[float(i) for i in row[1:]] for row in myquantities[1:] ]) # deleting headings
+def Open_data(filename): # function to read files and group entries in a matrix excluding headings
+    data =open(filename, "r") 
+    for line in data:
+        myentries.append(line.rstrip().split(","))
+    data.close()
+    Entries= s.matrix([[float(i) for i in row[1:]] for row in myentries[1:] ])  # deleting headings
+    return Entries
+
+Year1Quantities= Open_data("Quantities1.csv") # fist year quantities
+Year2Quantities= Open_data("Quantities2.csv") # second year quantities
+Year1Prices= Open_data("Prices1.csv") # first year unit prices
+Year2Prices= Open_data("Prices2.csv") # second year unit prices
+
+
 
 
 
