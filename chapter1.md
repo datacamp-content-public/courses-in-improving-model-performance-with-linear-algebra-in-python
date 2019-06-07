@@ -49,17 +49,13 @@ Hint: Formulate first the linear equation.
 
 # Question 4
 
-# Question 5
+Use the matrix obtained in Question 3 to study the independence of the daily amounts of quantities for the first 35 days and extend this ideal to the whole data set.
 
-# Question 6
+Hint: Use the determinant to make the decision.
 
-# Question 7
 
-# Question 8
 
-# Question 9
 
-# Question 10
 
 
 
