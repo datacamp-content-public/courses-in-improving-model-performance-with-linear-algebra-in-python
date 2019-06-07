@@ -44,7 +44,7 @@ Hint: Formulate first the linear equation.
 # Question 3
 
 1. Consider the matrix consisting of the first 35 days lines of  ***Quantities1.csv**
-2. Compute the Eigen values and vector of this matrix.
+2. Compute the Eigenvalues and Eigenvectors of this matrix.
 3. What is its inverse?
 
 # Question 4
