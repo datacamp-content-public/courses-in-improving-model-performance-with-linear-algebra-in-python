@@ -16,10 +16,11 @@ This Exercise intends to use matrix concept to make some data modeling and  anal
 
 
 `@instructions`
-1. Answer all question
+1.  Answer all question.
+2. Questions will be marked based on correctness and related justifications.
 
 `@hint`
-1.
+1.Basics on Scipy (Numpy) can be found  on this link https://www.tutorialspoint.com/scipy/scipy_basic_functionality.htm
 
 `@pre_exercise_code`
 ```{python}
