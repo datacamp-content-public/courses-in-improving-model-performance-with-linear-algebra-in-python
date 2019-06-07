@@ -14,6 +14,45 @@ xp: 100
 
 This Exercise intends to use matrix concept to make some data modeling and  analysis.
 
+
+This Exercise intends to use matrix concepts to make some data modeling and  analysis.
+The objective of the exercise is to model and analyze the economy of the assumed country.
+The data consist of quantities  of 35 different products recorded from Day 1 to Day 360 for two consecutive years. 
+The data consists of four files and for two years. 
+
+1. Year one: the data file for the first year are as follows:
+	1. **Quantities1.csv: ** the data consisting of quantities  of 35 different products recorded from Day 1 to Day 360.  
+     2. **Prices1.csv: ** the data consisting of the corresponding daily prices per unit of the 35 products. 
+     
+2. Year two: files **Quantities2.csv**  and **Prices2.csv** consisting of the quantities and prices for the same products within the second year.
+
+
+# Question 1
+1. 
+
+# Question 2
+
+# Question 3
+
+# Question 4
+
+# Question 5
+
+# Question 6
+
+# Question 7
+
+# Question 8
+
+# Question 9
+
+# Question 10
+
+
+
+
+
+
 `@instructions`
 1.  Answer all question.
 2. Questions will be marked based on correctness and related justifications.
