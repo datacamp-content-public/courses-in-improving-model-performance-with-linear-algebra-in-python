@@ -28,7 +28,11 @@ The data consists of four files and for two years.
 
 
 # Question 1
-1. 
+1. Write a Scipy code to compute the double of each quantity exported in the first year
+2. Write the command to compute the total daily exportation for each product within the two years.
+3. Write the a code to computer the  per- product total income made for the first year. 
+4. Write the a code to computer the  daily total income made for the second year. 
+5. Compute the total amount of income for the period of each income. 
 
 # Question 2
 
