@@ -22,8 +22,8 @@ The data consist of quantities  of 35 different products recorded from Day 1 to 
 
 `@instructions`
 1. Answer all questions.
-3. For each question, you may use some few steps before the final one. Explain your code with a simple justification.
-2. Questions will be marked based on correctness and related justifications.
+2. For each question, you may use some few steps before the final one. Explain your code with a simple justification.
+3. Questions will be marked based on correctness and related justifications.
 
 `@hint`
 Basics on Scipy (Numpy) can be found  on this link https://www.tutorialspoint.com/scipy/scipy_basic_functionality.htm
@@ -34,6 +34,7 @@ import scipy as s # importing scipy and nickname it as s
 
 def Open_data(filename): # function to read files and group entries in a matrix excluding headings
     data =open(filename, "r") 
+    myentries=[]
     for line in data:
         myentries.append(line.rstrip().split(","))
     data.close()
